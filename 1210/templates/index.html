@@ -1,0 +1,121 @@
+<!-- <index.html> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat with GPT</title>
+    <style>
+        /* Your existing styles */
+        body {
+            font-family: 'Arial', sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+            margin: 0;
+        }
+
+        #chat-box {
+            width: 400px;
+            height: 500px;
+            overflow-y: scroll;
+            padding: 10px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        #input-box {
+            margin-top: 10px;
+            display: flex;
+        }
+
+        #message-input {
+            flex: 1;
+            padding: 8px;
+            border: 1px solid #dddddd;
+            border-radius: 5px;
+            margin-right: 5px;
+        }
+
+        #send-button {
+            padding: 8px 15px;
+            background-color: #007bff;
+            color: #ffffff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div id="chat-box"></div>
+    
+    <div id="input-box">
+        <input type="text" id="message-input" placeholder="Type your question...">
+        <button id="send-button" onclick="sendMessage()">Send</button>
+    </div>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var messageInput = document.getElementById('message-input');
+            messageInput.addEventListener('keypress', function(e) {
+                if (e.key === 'Enter') {
+                    sendMessage();
+                }
+            });
+        });
+    
+        function sendMessage() {
+            var messageInput = document.getElementById('message-input');
+            var message = messageInput.value.trim();
+    
+            if (message !== '') {
+                fetch('http://127.0.0.1:8000/chatbot/', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ "utterance": message }),
+                    mode: 'cors',
+                })
+                .then(response => response.json())
+                .then(data => {
+                    // Display bot's message
+                    addBotMessage(data.bot_message);
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    addBotMessage("Error in processing your request.");
+                });
+    
+                // Display user's message
+                addUserMessage(message);
+    
+                // Clear the input field
+                messageInput.value = '';
+            }
+        }
+    
+
+        function addUserMessage(message) {
+            var chatBox = document.getElementById('chat-box');
+            var userMessage = document.createElement('div');
+            userMessage.className = 'message my-message';
+            userMessage.innerHTML = '<strong>User:</strong> ' + message;
+            chatBox.appendChild(userMessage);
+        }
+
+        function addBotMessage(message) {
+            var chatBox = document.getElementById('chat-box');
+            var botMessage = document.createElement('div');
+            botMessage.className = 'message other-message';
+            botMessage.innerHTML = '<strong>Bot:</strong> ' + message;
+            chatBox.appendChild(botMessage);
+        }
+    </script>
+</body>
+</html>
