@@ -1,0 +1,9 @@
+{
+  "done": true,
+  "migrated_at": "2026-02-09T18:59:32",
+  "attempted": 3,
+  "imported": 3,
+  "skipped": 0,
+  "failed": 0,
+  "message": "구형 데이터 병합 완료: 총 3건, 추가 3건, 건너뜀 0건, 실패 0건"
+}

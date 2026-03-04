@@ -1,0 +1,9 @@
+{
+  "done": true,
+  "migrated_at": "2026-02-12T19:15:59",
+  "attempted": 0,
+  "imported": 0,
+  "skipped": 0,
+  "failed": 0,
+  "message": "구형 history.json이 없어 병합할 데이터가 없습니다."
+}

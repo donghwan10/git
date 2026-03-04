@@ -1,0 +1,122 @@
+실행 시간 (KST): 2026.01.21 18:54:03
+------------------------------------------------------------
+Yarrow result : <799 886>
+BASE (본괘)   : #11 泰  (☷ over ☰)
+Changing lines: [2, 3, 6]
+Changed result: <788 887>
+CHANGED(변괘) : #27 頤  (☶ over ☳)
+
+--- Yarrow traces per line (bottom -> top) ---
+Line 1: afters=40 32 28  -> line=7  steps=49→split(28,21)→rem(4,4)→-9=40 | 40→split(20,20)→rem(4,3)→-8=32 | 32→split(13,19)→rem(1,2)→-4=28
+Line 2: afters=44 40 36  -> line=9  steps=49→split(33,16)→rem(1,3)→-5=44 | 44→split(21,23)→rem(1,2)→-4=40 | 40→split(17,23)→rem(1,2)→-4=36
+Line 3: afters=44 40 36  -> line=9  steps=49→split(29,20)→rem(1,3)→-5=44 | 44→split(18,26)→rem(2,1)→-4=40 | 40→split(22,18)→rem(2,1)→-4=36
+Line 4: afters=44 36 32  -> line=8  steps=49→split(23,26)→rem(3,1)→-5=44 | 44→split(23,21)→rem(3,4)→-8=36 | 36→split(22,14)→rem(2,1)→-4=32
+Line 5: afters=44 40 32  -> line=8  steps=49→split(27,22)→rem(3,1)→-5=44 | 44→split(21,23)→rem(1,2)→-4=40 | 40→split(20,20)→rem(4,3)→-8=32
+Line 6: afters=40 32 24  -> line=6  steps=49→split(24,25)→rem(4,4)→-9=40 | 40→split(24,16)→rem(4,3)→-8=32 | 32→split(15,17)→rem(3,4)→-8=24
+
+======================
+WENWANG (文王卦 / 六爻) AUTO REPORT
+======================
+Cast time (KST) : 2026-01-21 18:54:03 KST
+LiChun (KST)    : 2026-02-04 04:55:55 KST  (year boundary)
+Four Pillars    : 乙巳年  己丑月  乙未日  乙酉時
+XunKong (旬空)  : 辰巳
+Palace (宫)     : kun宫(土)  |  世=3  應=6
+Hexagram        : #11 泰  (☷ over ☰)
+
+효(상->하) | 世/應 | 원효 | 동 | 納甲(干支) | 지지오행 | 六親 | 六神 | 旬空
+--------------------------------------------------------------------------------------------
+       6 |   應   |  6   | 동  |    癸酉    |  金   |  子孫  |  玄武  |   
+       5 |       |  8   |    |    癸亥    |  水   |  妻財  |  白虎  |   
+       4 |       |  8   |    |    癸丑    |  土   |  兄弟  |  螣蛇  |   
+       3 |   世   |  9   | 동  |    甲辰    |  土   |  兄弟  |  勾陳  | 空 
+       2 |       |  9   | 동  |    甲寅    |  木   |  官鬼  |  朱雀  |   
+       1 |       |  7   |    |    甲子    |  水   |  妻財  |  青龍  |   
+
+
+============================================================
+I CHING TEXT (괘사/대상/효사)
+============================================================
+
+====================
+본괘 (괘사 + 대상 + 동효)
+====================
+
+#11 泰 (tài) - Advance
+---------------------
+[괘사 / Judgment]
+PEACE. The small departs,
+The great approaches.
+Good fortune. Success.
+
+[괘사 주석 / Comments]
+This hexagram denotes a time in nature when heaven seems to be on earth. Heaven has placed itself beneath the earth, and so their powers unite in deep harmony. Then peace and blessing descend upon all living things. In the world of man it is a time of social harmony; those in high places show favor to the lowly, and the lowly and inferior is an end to all feuds. In side, at the center, in the key position, is the light principle; the dark principle is outside. Thus the light has a powerful influence, while the dark is submissive. In this way each receives its due. When the good elements of society occupy a central position and are in control, the evil elements come under their influence and change for the better. When the spirit of heaven rules in man, his animal nature also comes under its influence and takes its appropriate place. The individual lines enter the hexagram from below and leave it again at the top. Here the small, weak, and evil elements are about to take their departure, while the great, strong, and good elements are moving up. This brings good fortune and success.
+
+[대상 / Image]
+Heaven and earth unite: the image of PEACE.
+Thus the ruler
+Divides and completes the course of heaven and earth,
+And so aids the people.
+
+[대상 주석 / Comments]
+Heaven and earth are in contact and combine their influences, producing a time of universal flowering and prosperity. This stream of energy must be regulated by the ruler of men. It is done by a process of division. Thus men divide the uniform flow of time into the seasons, according to the succession of natural phenomena, and mark off infinite space by the points of the compass. In this way nature in its overwhelming profusion of phenomena is bounded and controlled. One the other hand, nature must be furthered in her productiveness. This is done by adjusting the products to the right time and the right place, which increases the natural yield. This controlling and furthering activity of man in his relation to nature is the work on nature that rewards him.
+
+[동효 / Changing Lines]
+• 2효:
+Bearing with the uncultured in gentleness,
+Fording the river with resolution,
+Not neglecting what is distant,
+Not regarding one's companions:
+  - 주석:
+    Thus one may manage to walk in the middle.
+    
+    In times of prosperity it is important and above all to possess enough greatness of soul to bear with imperfect people. For in the hands of a great master no material is unproductive; he can find use for everything. But this generosity is by no means laxity or weakness. It is during times of prosperity especially that we must always be ready to risk even dangerous undertakings, such as the crossing of a river, if they are necessary. So too we must not neglect what is distant but must attend scrupulously to everything. Factionalism and the dominance of cliques are especially to be avoided. Even if people of like mind come forward together, they ought not to form a faction by holding together for mutual advantage; instead, each man should do is duty. Theses are four ways in which one can overcome the hidden danger of a gradual slackening that always lurks in any time of peace. And that is how one finds the middle way for action.
+
+• 3효:
+No plain not followed by a slope.
+No going not followed by a return.
+He who remains persevering in danger
+Is without blame.
+Do not complain about this truth;
+Enjoy the good fortune you still possess.
+  - 주석:
+    Everything on earth is subject to change. Prosperity is followed by decline: this is the eternal law on earth. Evil can indeed be held in check but not permanently abolished. It always returns. This conviction might induct melancholy, but it should not; it ought only to keep us from falling into illusion when good fortune comes to us. If we continue mindful of the danger, we remain persevering and make no mistakes. As long as a man's inner nature remains stronger and richer than anything offered by external fortune, as long as he remains inwardly superior to fate, fortune will not desert him.
+
+• 6효:
+The wall falls back into the moat.
+Use no army now.
+Make your commands known within your own town.
+Perseverance brings humiliation.
+  - 주석:
+    The change alluded to in the middle of the hexagram has begun to take place. The wall of the town sinks back into the moat from which it was dug. The hour of doom is at hand. When matters have come to this pass, we should submit to fate and not try to stave it off by violent resistance. The one recourse left us is to hold our own within our intimate circle. Should we persevere in trying to resist the evil in the usual way, our collapse would only be more complete, and humiliation would be the result.
+
+
+====================
+변괘 (괘사 + 대상)
+====================
+
+#27 頤 (yí) - Nourishing
+-----------------------
+[괘사 / Judgment]
+THE CORNERS OF THE MOUTH.
+Perseverance brings good fortune.
+Pay heed to the providing of nourishment
+And to what a man seeks
+
+To fill his own mouth with.
+
+In bestowing care and nourishment, it is important that the right people should be taken care of and that we should attend to our own nourishment in the right way. If we wish to know what anyone is like, we have only to observe on whom he bestows his care and what sides of his own nature he cultivates and nourishes. Nature nourishes all creatures. The great man fosters and takes care of superior men, in order to take care of all men through them. Mencius says about this:
+
+[괘사 주석 / Comments]
+If we wish to know whether anyone is superior or not, we need only observe what part of his being he regards as especially important. The body has superior and inferior, important and unimportant parts. We must not injure important parts for the sake of the unimportant, nor must we injure the superior parts for the sake of the inferior. He who cultivates the inferior parts of his nature is an inferior man. He who cultivates the superior parts of his nature is a superior man.
+
+[대상 / Image]
+At the foot of the mountain, thunder:
+
+The image of PROVIDING NOURISHMENT.
+
+Thus the superior man is careful of his words
+And temperate in eating and drinking.
+
+[대상 주석 / Comments]
+"God comes forth in the sign of the Arousing": when in the spring the life forces stir again, all things comes into being anew. "He brings to perfection in the sign of Keeping Still": thus in the early spring, when the seeds fall to earth, all things are made ready. This is an image of providing nourishment through movement and tranquillity. The superior man takes it as a pattern for the nourishment and cultivation of his character. Words are a movement going form within outward. Eating and drinking are movements from without inward. Both kinds of movement can be modified by tranquillity. For tranquillity keeps the words that come out of the mouth from exceeding proper measure, and keeps the food that goes into the mouth from exceeding its proper measure. Thus character is cultivated.

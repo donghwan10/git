@@ -1,0 +1,31 @@
+[
+  {
+    "ts": "2026-01-21 18:40:10",
+    "output": "Timestamp     : 2026.01.21 18:40\nYarrow result : <798 999>\nBASE (본괘)   : #10 履  (☰ over ☱)\nChanging lines: [2, 4, 5, 6]\nChanged result: <788 888>\nCHANGED(변괘) : #24 復  (☷ over ☳)\n\n--- Yarrow traces per line (bottom -> top) ---\nLine 1: afters=44 36 28  -> line=7  steps=49→split(19,30)→rem(3,1)→-5=44 | 44→split(16,28)→rem(4,3)→-8=36 | 36→split(19,17)→rem(3,4)→-8=28\nLine 2: afters=44 40 36  -> line=9  steps=49→split(22,27)→rem(2,2)→-5=44 | 44→split(22,22)→rem(2,1)→-4=40 | 40→split(25,15)→rem(1,2)→-4=36\nLine 3: afters=44 40 32  -> line=8  steps=49→split(26,23)→rem(2,2)→-5=44 | 44→split(22,22)→rem(2,1)→-4=40 | 40→split(19,21)→rem(3,4)→-8=32\nLine 4: afters=44 40 36  -> line=9  steps=49→split(27,22)→rem(3,1)→-5=44 | 44→split(22,22)→rem(2,1)→-4=40 | 40→split(22,18)→rem(2,1)→-4=36\nLine 5: afters=44 40 36  -> line=9  steps=49→split(18,31)→rem(2,2)→-5=44 | 44→split(22,22)→rem(2,1)→-4=40 | 40→split(22,18)→rem(2,1)→-4=36\nLine 6: afters=44 40 36  -> line=9  steps=49→split(33,16)→rem(1,3)→-5=44 | 44→split(26,18)→rem(2,1)→-4=40 | 40→split(17,23)→rem(1,2)→-4=36\n\n======================\nWENWANG (文王卦 / 六爻) AUTO REPORT\n======================\nCast time (KST) : 2026-01-21 18:40:10 KST\nLiChun (KST)    : 2026-02-04 04:55:55 KST  (year boundary)\nFour Pillars    : 乙巳年  己丑月  乙未日  乙酉時\nXunKong (旬空)  : 辰巳\nPalace (宫)     : gen宫(土)  |  世=5  應=2\nHexagram        : #10 履  (☰ over ☱)\n\n효(상->하) | 世/應 | 원효 | 동 | 納甲(干支) | 지지오행 | 六親 | 六神 | 旬空\n--------------------------------------------------------------------------------------------\n       6 |       |  9   | 동  |    壬戌    |  土   |  兄弟  |  玄武  |   \n       5 |   世   |  9   | 동  |    壬申    |  金   |  子孫  |  白虎  |   \n       4 |       |  9   | 동  |    壬午    |  火   |  父母  |  螣蛇  |   \n       3 |       |  8   |    |    丁丑    |  土   |  兄弟  |  勾陳  |   \n       2 |   應   |  9   | 동  |    丁卯    |  木   |  官鬼  |  朱雀  |   \n       1 |       |  7   |    |    丁巳    |  火   |  父母  |  青龍  | 空 \n",
+    "base_no": 10,
+    "changed_no": 24,
+    "changing_idx": [
+      2,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "ts": "2026-01-21 18:40:15",
+    "output": "Timestamp     : 2026.01.21 18:40\nYarrow result : <888 877>\nBASE (본괘)   : #20 觀  (☴ over ☷)\nChanging lines: None\nChanged result: <888 877>\nCHANGED(변괘) : #20 觀  (☴ over ☷)\n\n--- Yarrow traces per line (bottom -> top) ---\nLine 1: afters=44 40 32  -> line=8  steps=49→split(27,22)→rem(3,1)→-5=44 | 44→split(18,26)→rem(2,1)→-4=40 | 40→split(15,25)→rem(3,4)→-8=32\nLine 2: afters=44 40 32  -> line=8  steps=49→split(26,23)→rem(2,2)→-5=44 | 44→split(17,27)→rem(1,2)→-4=40 | 40→split(19,21)→rem(3,4)→-8=32\nLine 3: afters=44 36 32  -> line=8  steps=49→split(22,27)→rem(2,2)→-5=44 | 44→split(23,21)→rem(3,4)→-8=36 | 36→split(22,14)→rem(2,1)→-4=32\nLine 4: afters=44 36 32  -> line=8  steps=49→split(25,24)→rem(1,3)→-5=44 | 44→split(23,21)→rem(3,4)→-8=36 | 36→split(17,19)→rem(1,2)→-4=32\nLine 5: afters=44 36 28  -> line=7  steps=49→split(23,26)→rem(3,1)→-5=44 | 44→split(23,21)→rem(3,4)→-8=36 | 36→split(12,24)→rem(4,3)→-8=28\nLine 6: afters=44 36 28  -> line=7  steps=49→split(19,30)→rem(3,1)→-5=44 | 44→split(16,28)→rem(4,3)→-8=36 | 36→split(16,20)→rem(4,3)→-8=28\n\n======================\nWENWANG (文王卦 / 六爻) AUTO REPORT\n======================\nCast time (KST) : 2026-01-21 18:40:15 KST\nLiChun (KST)    : 2026-02-04 04:55:55 KST  (year boundary)\nFour Pillars    : 乙巳年  己丑月  乙未日  乙酉時\nXunKong (旬空)  : 辰巳\nPalace (宫)     : qian宫(金)  |  世=4  應=1\nHexagram        : #20 觀  (☴ over ☷)\n\n효(상->하) | 世/應 | 원효 | 동 | 納甲(干支) | 지지오행 | 六親 | 六神 | 旬空\n--------------------------------------------------------------------------------------------\n       6 |       |  7   |    |    辛卯    |  木   |  妻財  |  玄武  |   \n       5 |       |  7   |    |    辛巳    |  火   |  官鬼  |  白虎  | 空 \n       4 |   世   |  8   |    |    辛未    |  土   |  父母  |  螣蛇  |   \n       3 |       |  8   |    |    乙卯    |  木   |  妻財  |  勾陳  |   \n       2 |       |  8   |    |    乙巳    |  火   |  官鬼  |  朱雀  | 空 \n       1 |   應   |  8   |    |    乙未    |  土   |  父母  |  青龍  |   \n",
+    "base_no": 20,
+    "changed_no": 20,
+    "changing_idx": []
+  },
+  {
+    "ts": "2026-01-21 18:41:00",
+    "output": "Timestamp     : 2026.01.21 18:41\nYarrow result : <988 889>\nBASE (본괘)   : #27 頤  (☶ over ☳)\nChanging lines: [1, 6]\nChanged result: <888 888>\nCHANGED(변괘) : #2 坤  (☷ over ☷)\n\n--- Yarrow traces per line (bottom -> top) ---\nLine 1: afters=44 40 36  -> line=9  steps=49→split(27,22)→rem(3,1)→-5=44 | 44→split(29,15)→rem(1,2)→-4=40 | 40→split(21,19)→rem(1,2)→-4=36\nLine 2: afters=44 36 32  -> line=8  steps=49→split(25,24)→rem(1,3)→-5=44 | 44→split(16,28)→rem(4,3)→-8=36 | 36→split(18,18)→rem(2,1)→-4=32\nLine 3: afters=44 40 32  -> line=8  steps=49→split(25,24)→rem(1,3)→-5=44 | 44→split(25,19)→rem(1,2)→-4=40 | 40→split(16,24)→rem(4,3)→-8=32\nLine 4: afters=44 36 32  -> line=8  steps=49→split(26,23)→rem(2,2)→-5=44 | 44→split(24,20)→rem(4,3)→-8=36 | 36→split(17,19)→rem(1,2)→-4=32\nLine 5: afters=40 36 32  -> line=8  steps=49→split(28,21)→rem(4,4)→-9=40 | 40→split(21,19)→rem(1,2)→-4=36 | 36→split(17,19)→rem(1,2)→-4=32\nLine 6: afters=44 40 36  -> line=9  steps=49→split(22,27)→rem(2,2)→-5=44 | 44→split(21,23)→rem(1,2)→-4=40 | 40→split(25,15)→rem(1,2)→-4=36\n\n======================\nWENWANG (文王卦 / 六爻) AUTO REPORT\n======================\nCast time (KST) : 2026-01-21 18:41:00 KST\nLiChun (KST)    : 2026-02-04 04:55:55 KST  (year boundary)\nFour Pillars    : 乙巳年  己丑月  乙未日  乙酉時\nXunKong (旬空)  : 辰巳\nPalace (宫)     : xun宫(木)  |  世=4  應=1\nHexagram        : #27 頤  (☶ over ☳)\n\n효(상->하) | 世/應 | 원효 | 동 | 納甲(干支) | 지지오행 | 六親 | 六神 | 旬空\n--------------------------------------------------------------------------------------------\n       6 |       |  9   | 동  |    丙寅    |  木   |  兄弟  |  玄武  |   \n       5 |       |  8   |    |    丙子    |  水   |  父母  |  白虎  |   \n       4 |   世   |  8   |    |    丙戌    |  土   |  妻財  |  螣蛇  |   \n       3 |       |  8   |    |    庚辰    |  土   |  妻財  |  勾陳  | 空 \n       2 |       |  8   |    |    庚寅    |  木   |  兄弟  |  朱雀  |   \n       1 |   應   |  9   | 동  |    庚子    |  水   |  父母  |  青龍  |   \n",
+    "base_no": 27,
+    "changed_no": 2,
+    "changing_idx": [
+      1,
+      6
+    ]
+  }
+]
